@@ -1,0 +1,241 @@
+body {
+  font-family: "Signika Negative", sans-serif;
+}
+
+body .container h1 {
+  text-align: center;
+  margin-top: 7px;
+  font-size: 24px;
+}
+
+.d-flex {
+  background-color: #0099ff;
+  font-size: 16px;
+  font-family: "Courier Prime Bold 700", monospace;
+}
+
+.jumbotron img {
+  width: 250px;
+  height: 250px;
+  margin-bottom: -5px;
+}
+
+.d-grid .btn {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.main {
+  background-color: #0099ff;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.col h2 {
+  font-size: 29px;
+}
+
+.col img {
+  width: 240px;
+  height: 420px;
+  margin-top: 20px;
+}
+
+.testimoni {
+  background-color: white;
+}
+
+.tanda {
+  margin-top: -28px;
+}
+
+@media (min-width: 375px) {
+  .jumbotron img {
+    width: 300px;
+    height: 300px;
+    margin-bottom: -5px;
+  }
+
+  body .container h1 {
+    text-align: center;
+    margin-top: 7px;
+    font-size: 28px;
+  }
+
+  .d-grid .btn {
+    margin-top: 25px;
+    margin-bottom: 5px;
+    font-size: 16px;
+  }
+
+  p {
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .keunggulan {
+    margin-bottom: 8px;
+  }
+
+  .tanda {
+    margin-top: -27px;
+  }
+
+  .testimoni {
+    margin-top: -10px;
+  }
+
+  .mengapa {
+    margin-top: -15px;
+  }
+}
+
+@media (min-width: 414px) {
+  .d-flex {
+    background-color: #0099ff;
+    font-size: 19px;
+    font-family: "Courier Prime Bold 700", monospace;
+  }
+
+  body .container h1 {
+    text-align: center;
+    margin-top: 7px;
+    font-size: 31px;
+  }
+
+  .d-grid .btn {
+    margin-top: 25px;
+    margin-bottom: 5px;
+    font-size: 19px;
+  }
+
+  p {
+    text-align: center;
+    font-size: 23px;
+  }
+
+  .keunggulan {
+    margin-bottom: 8px;
+  }
+
+  .tanda {
+    margin-top: -27px;
+  }
+
+  .testimoni {
+    background-color: white;
+  }
+}
+
+@media (min-width: 360px) {
+  .d-flex {
+    background-color: #0099ff;
+    font-size: 16px;
+    font-family: "Courier Prime Bold 700", monospace;
+  }
+
+  body .container h1 {
+    text-align: center;
+    margin-top: 7px;
+    font-size: 26px;
+  }
+
+  .d-grid .btn {
+    margin-top: 25px;
+    margin-bottom: 5px;
+    font-size: 15px;
+  }
+
+  .mengapa {
+    margin-top: -10px;
+  }
+
+  p {
+    text-align: center;
+    font-size: 23px;
+  }
+
+  .keunggulan {
+    margin-bottom: 8px;
+  }
+
+  .tanda {
+    margin-top: -27px;
+  }
+
+  .testimoni {
+    background-color: white;
+    margin-top: -10px;
+  }
+
+  h1 {
+    margin-top: -10px;
+  }
+}
+
+@media (min-width: 768px) {
+  .d-flex {
+    background-color: #0099ff;
+    font-size: 31px;
+    font-family: "Courier Prime Bold 700", monospace;
+  }
+
+  body .container h1 {
+    text-align: center;
+    margin-top: 7px;
+    font-size: 54px;
+  }
+
+  body .col h2 {
+    text-align: center;
+    margin-top: 7px;
+    font-size: 50px;
+  }
+
+  body .col h1 {
+    text-align: center;
+    margin-top: 7px;
+    font-size: 45px;
+  }
+
+  body .col p {
+    text-align: center;
+    margin-top: 7px;
+    font-size: 30px;
+  }
+
+  .jumbotron img {
+    width: 450px;
+    height: 450px;
+    margin-bottom: 10px;
+  }
+
+  .d-grid .btn {
+    margin-top: 25px;
+    margin-bottom: 5px;
+    font-size: 32px;
+  }
+
+  p {
+    text-align: center;
+    font-size: 35px;
+  }
+
+  .keunggulan {
+    margin-bottom: 8px;
+  }
+
+  .tanda {
+    margin-top: -45px;
+  }
+
+  .testimoni {
+    background-color: white;
+  }
+}
